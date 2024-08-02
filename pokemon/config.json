@@ -1,0 +1,16 @@
+{
+    "pokemon_api_details": {
+        "count": 1302,
+        "base_url": "https://pokeapi.co/api/v2/pokemon/"
+    },
+    "mongo_server": {
+        "username": null,
+        "password": null,
+        "host": "127.0.0.1",
+        "port": "27017",
+        "database_name": "pokemon_database",
+        "collection_name": "pokemon_details",
+        "uri": "mongodb://{username}:{password}@{host}:{port}/{database_name}",
+        "uri_without_user": "mongodb://{host}:{port}/{database_name}"
+    }
+}
