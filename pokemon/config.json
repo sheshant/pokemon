@@ -1,6 +1,6 @@
 {
     "pokemon_api_details": {
-        "count": 1302,
+        "count": 1025,
         "base_url": "https://pokeapi.co/api/v2/pokemon/"
     },
     "mongo_server": {
